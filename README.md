@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Supreeth</h1>
-<h3 align="center">🚀 MERN stack developer</h3>
+# 💫 Hi 👋, I'm Imran Alam
 
 ---
 
